@@ -1,0 +1,30 @@
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.exe
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.deps.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.runtimeconfig.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.runtimeconfig.dev.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.csprojAssemblyReference.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.Form1.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.csproj.GenerateResource.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.AssemblyInfoInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.AssemblyInfo.cs
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.csproj.CoreCompileInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.genruntimeconfig.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.exe
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.deps.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.runtimeconfig.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.runtimeconfig.dev.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\bin\Debug\netcoreapp3.1\Cálculo_Média.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.Form1.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.csproj.GenerateResource.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.AssemblyInfoInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.AssemblyInfo.cs
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.csproj.CoreCompileInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Cálculo_Média\Cálculo_Média\obj\Debug\netcoreapp3.1\Cálculo_Média.genruntimeconfig.cache
